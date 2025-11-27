@@ -1,7 +1,6 @@
 {
   "name": "osama",
   "version": "0.1.0",
-  "homepage": "https://osamaahmed26.github.io/Shopping-2",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
