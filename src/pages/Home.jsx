@@ -1,7 +1,6 @@
 import React, { useEffect, useState, useContext } from "react";
 import { Link } from "react-router-dom";
 import image1 from "../assets/banner_tablet_new.png";
-import CategorySection from "../components/CategorySection";
 import { FaHeart, FaCartPlus } from "react-icons/fa";
 import { CartContext } from "../context/CartContext";
 import "./Home.css";
@@ -41,7 +40,6 @@ export default function Home({ searchTerm }) {
         className="img-fluid w-100 banner-image"
       />
 
-      <CategorySection />
 
       <div className="container py-5">
         <h3 className="fw-bold mb-4 text-center">Products</h3>
