@@ -1,7 +1,6 @@
 {
   "name": "osama",
   "version": "0.1.0",
-  "homepage": "https://github.com/osama-ahmed-dev-26/Shopping-Land",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -22,9 +21,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": [
