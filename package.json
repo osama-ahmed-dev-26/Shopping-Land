@@ -1,7 +1,7 @@
 {
   "name": "osama",
   "version": "0.1.0",
-  "homepage": "https://osama-ahmed-dev-26.github.io/Shoppinng-Land",
+  "homepage": "https://osama-ahmed-dev-26.github.io/Shoppinng-Land/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
