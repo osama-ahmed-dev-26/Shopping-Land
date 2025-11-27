@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Shopping-Land/static/css/main.2a7b8952.css",
+    "main.js": "/Shopping-Land/static/js/main.de868d8b.js",
+    "static/media/banner_tablet_new.png": "/Shopping-Land/static/media/banner_tablet_new.efe2b23080125eaa9ca9.png",
+    "index.html": "/Shopping-Land/index.html",
+    "main.2a7b8952.css.map": "/Shopping-Land/static/css/main.2a7b8952.css.map",
+    "main.de868d8b.js.map": "/Shopping-Land/static/js/main.de868d8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a7b8952.css",
+    "static/js/main.de868d8b.js"
+  ]
+}
